@@ -1,7 +1,7 @@
 [
   {
     "id": "1",
-    "judul": "Lari Pagi Keliling Kampus",
+    "judul": "Lari Pagi 5 km",
     "kategori": "Kardio",
     "tanggal": "2026-10-19",
     "durasi": 35,
@@ -26,7 +26,7 @@
   {
     "id": "4",
     "judul": "Futsal Bersama Teman Kelas",
-    "kategori": "Permainan",
+    "kategori": "Kompetisi",
     "tanggal": "2026-10-22",
     "durasi": 60,
     "kalori": 450
@@ -58,7 +58,7 @@
   {
     "id": "8",
     "judul": "Bulu Tangkis Ganda",
-    "kategori": "Permainan",
+    "kategori": "Kompetisi",
     "tanggal": "2026-10-26",
     "durasi": 50,
     "kalori": 350
