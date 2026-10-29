@@ -22,7 +22,7 @@ export default function Koleksi() {
 
   return (
     <section>
-      <JudulHalaman>Koleksi</JudulHalaman>
+      <JudulHalaman>Daftar Latihan Olahraga</JudulHalaman>
       <div className="alat-koleksi">
         <KotakPencarian nilai={cari} onUbah={setCari} />
         <select aria-label="Kategori" value={kategori} onChange={(e) => setKategori(e.target.value)}>

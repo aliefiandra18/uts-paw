@@ -25,7 +25,7 @@ export default function Tambah() {
 
   return (
     <form className="formulir" onSubmit={simpan} noValidate>
-      <h1>Tambah Jurnal</h1>
+      <h1>Tambah Daftar Latihan Olahraga</h1>
 
       <label htmlFor="judul">Judul</label>
       <input id="judul" name="judul" value={form.judul} onChange={ubah} />
@@ -34,9 +34,9 @@ export default function Tambah() {
       <label htmlFor="kategori">Kategori</label>
       <select id="kategori" name="kategori" value={form.kategori} onChange={ubah}>
         <option>Kardio</option>
-        <option>Kekuatan</option>
-        <option>Kelenturan</option>
-        <option>Permainan</option>
+        <option>Angkat Beban</option>
+        <option>Peregangan</option>
+        <option>Olahraga Tim</option>
       </select>
 
       <label htmlFor="tanggal">Tanggal</label>
