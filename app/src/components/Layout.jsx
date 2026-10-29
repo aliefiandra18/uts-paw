@@ -13,8 +13,8 @@ export default function Layout() {
   return (
     <div className="kerangka">
       <header className="kepala">
-        <strong>Daftar Jurnal Latihan Olahraga</strong>
-        <nav className="menu">
+        <strong id="judul-aplikasi">Daftar Jurnal Latihan Olahraga</strong>
+        <nav className="menu" id="tautan-utama">
           {MENU.map(({ ke, label }) => (
             <NavLink key={ke} to={ke} end={ke === '/'}>
               {label}
@@ -22,7 +22,7 @@ export default function Layout() {
           ))}
         </nav>
       </header>
-      <main className="isi">
+      <main className="isi" id="konten-utama">
         <Outlet />
       </main>
       <footer className="kaki">Ujian Tengah Semester Pengembangan Aplikasi Web</footer>

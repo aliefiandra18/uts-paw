@@ -103,3 +103,29 @@
         grid-template-columns: 1fr;
     }
 }
+
+#konten-utama {
+    min-height: 70vh;
+}
+
+#judul-aplikasi {
+    color: #1f4d3a;
+}
+
+#tautan-utama {
+    font-weight: 600;
+}
+
+.menu a:hover {
+    color: #1f4d3a;
+}
+
+.alat-koleksi input:focus,
+.alat-koleksi select:focus {
+    outline: 2px solid #2563eb;
+    outline-offset: 2px;
+}
+
+.daftar-kartu> :nth-child(odd) {
+    background-color: #f9fbfa;
+}
