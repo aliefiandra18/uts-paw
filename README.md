@@ -62,7 +62,6 @@ Penilaian akhir selalu memakai `grader/` dan `shared/` versi repo induk, jadi me
 
 Ganti seluruh isi berkas ini dengan dokumentasi aplikasimu (butir rubrik A4). Kerangka berikut boleh dipakai:
 
-```markdown
 # Nama Aplikasi
 
 Nama: Aliefiandra Akbar Syahputra
@@ -80,16 +79,18 @@ Deployment: https://aliefiandra18.github.io/uts-paw/
 ![Halaman Koleksi](docs/koleksi.png)
 
 - Halaman Tambah
-![Halaman Statistik](docs/tambah.png)
+![Halaman Tambah](docs/tambah.png)
 
 - Halaman Statistik
 ![Halaman Statistik](docs/statistik.png)
 
 - Halaman Tentang
-![Halaman Statistik](docs/tentang.png)
+![Halaman Tentang](docs/tentang.png)
 
 - Halaman 404
-![Halaman Statistik](docs/404.png)
+![Halaman 404](docs/404.png)
+
+docs/404.png
 
 ## Fitur
 
