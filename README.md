@@ -1,11 +1,11 @@
 
 # Nama Aplikasi
 
-Nama: Aliefiandra Akbar Syahputra
-NIM: 124140076
-Kelas: RA
-Tema: Jurnal Latihan Olahraga
-Deployment: https://aliefiandra18.github.io/uts-paw/
+- Nama: Aliefiandra Akbar Syahputra
+- NIM: 124140076
+- Kelas: RA
+- Tema: Jurnal Latihan Olahraga
+- Deployment: https://aliefiandra18.github.io/uts-paw/
 
 ## Tampilan Aplikasi
 
