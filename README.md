@@ -90,8 +90,6 @@ Deployment: https://aliefiandra18.github.io/uts-paw/
 - Halaman 404
 ![Halaman 404](docs/404.png)
 
-docs/404.png
-
 ## Fitur
 
 - Beranda: Menampilkan ringkasan jumlah jurnal latihan dan kategori olahraga.
